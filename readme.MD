@@ -8,7 +8,7 @@ You'll also learn how to set up your own gitHub repo; we'll be using that to sub
 
 1. To begin, watch [this video](https://www.youtube.com/watch?v=HYYWQadJ0Pw), which will show you a little bit about GitHub and how to use it. 
 
-2. Then, go to GitHub Classroom to check out the assignment. Here's the URL: https://classroom.github.com/a/HwAHWfUq
+2. Then, go to GitHub Classroom to check out the assignment. Here's the URL: https://classroom.github.com/a/OYNQgne1
 
 3. For this assignment, we're going to write some functions to help us convert from English measurements to metric and back. I've provided a few empty functions to get you started.  
    Please complete each of them.  I've also provided a 'main' that will execute your functions.
