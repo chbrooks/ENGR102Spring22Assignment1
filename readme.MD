@@ -1,7 +1,7 @@
 
 ### Assignment 1. 
 
-### Due - Tuesday Feb 15, start of class.
+### Due - Wednesday Feb 16, 11:59pm.
 
 This assignment is intended to give you some practice writing basic Python code, including functions, parameters, loops and conditionals. 
 You'll also learn how to set up your own gitHub repo; we'll be using that to submit this assignment.
